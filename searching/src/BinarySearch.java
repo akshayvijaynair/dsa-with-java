@@ -6,10 +6,10 @@ public class BinarySearch {
      * if the num is found then print the index
      * else print that the number is not found
      *
-     * @param arr
-     * @param left
-     * @param right
-     * @param num
+     * @param arr for the input array
+     * @param left for low point index of array
+     * @param right for high point index of array
+     * @param num for number to search
      *
      * TC : O(logn)
      *
