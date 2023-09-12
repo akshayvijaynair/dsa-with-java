@@ -12,7 +12,7 @@ public class LinearSearch {
         return -1;
     }
 
-    public static void main(String a[]) {
+    public static void main(String[] a) {
 
         int[] arr1 = {23, 45, 21, 55, 234, 1, 34, 90};
         int searchKey = 34;

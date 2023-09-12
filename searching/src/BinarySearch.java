@@ -4,8 +4,8 @@ public class BinarySearch {
      * Expectation : Array should be sorted
      *
      * if the num is found then print the index
-     *
      * else print that the number is not found
+     *
      * @param arr
      * @param left
      * @param right
